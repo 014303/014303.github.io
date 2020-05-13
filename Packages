@@ -1,0 +1,36 @@
+Package: com.Alla.lineloginavoidance
+Architecture: iphoneos-arm
+Version: 0.1-1+debug
+Section: Tweaks
+Maintainer: Alla
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.Alla.lineloginavoidance_0.1-1+debug_iphoneos-arm.deb
+Size: 2248
+MD5sum: b3d0bb7cbc32466e24bac1516619b036
+SHA1: 5100f91f562bc833fd8ccd36279b8352a5493b6e
+SHA256: 9bf20967a4bf508fd2065ac5000e47956a89919ff1307ef72728344ee1b54086
+SHA512: 94e44482deed75eaae5385c3045bcacd2514322cdabb7600823f0100e40892a57bbf19b86838792a1ada9e8c4138aec9205ad81f04a0bb8fd4f062fb1ba2c9ca
+Description: LINE Login Avoidance
+Name: LINE Login Avoidance
+Author: Alla
+Icon: file://icon.JPG
+
+Package: com.alla.tsumcoinmod
+Architecture: iphoneos-arm
+Version: 1.81.1
+Section: Tweaks
+Maintainer: Alla
+Installed-Size: 444
+Depends: mobilesubstrate
+Filename: ./debs/com.alla.tsumcoinmod_1.81.1_iphoneos-arm.deb
+Size: 205676
+MD5sum: 8e8ce25463e1e9ba74427effa9774830
+SHA1: 53f3f56b379978122b78b779c9ee18411c941e2a
+SHA256: a877b246957d626b49f0a89b9a90c9f96f8bd21622de14a25c5d49dffe339dfb
+SHA512: 2455031fd4bbe56550c3b6e00957fe6046e9edde855c9ba1374d281827114abb51e2f51089b354bcbb3fc1c6a0e8132bddded094bcaa022f2666896e7a9edab3
+Homepage:
+Description: TsumTsum Mod Menu by Alla!
+Name: TsumTsum Mod Menu
+Author: Alla
+
